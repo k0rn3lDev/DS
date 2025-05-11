@@ -1,0 +1,132 @@
+ProductCategory,StoreLocation,UnitPrice,QuantitySold,TotalSale,PaymentMethod,CustomerAge
+Toys,Giza,3388.74,5.7835820895522385,23721.18,Cash,28.0
+Groceries,Asyut,1194.52,1.0,1194.52,Bank Transfer,30.0
+Groceries,Asyut,2628.63,8.0,21029.04,Bank Transfer,28.0
+Furniture,Asyut,2902.94,5.7835820895522385,15985.668489208632,Cash,54.0
+Furniture,Asyut,2291.2,10.0,22912.0,Bank Transfer,30.0
+Toys,Cairo,961.47,3.0,2884.41,Bank Transfer,66.0
+Groceries,Alexandria,1928.17,2.0,3856.34,Mobile Payment,41.0
+Groceries,Giza,124.59,5.0,622.95,Cash,43.0
+Groceries,Giza,2293.75,1.0,2293.75,Bank Transfer,48.0
+Clothing,Cairo,2237.21,6.0,13423.26,Bank Transfer,34.0
+Electronics,Cairo,2640.42,3.0,15985.668489208632,Mobile Payment,36.0
+Groceries,Cairo,4850.1,1.0,4850.1,Credit Card,24.0
+Toys,Mansoura,2641.13,9.0,23770.17,Bank Transfer,40.0
+Toys,Giza,2019.5,10.0,20195.0,Credit Card,21.0
+Groceries,Asyut,1938.65,1.0,1938.65,Mobile Payment,40.0
+Electronics,Cairo,3854.13,6.0,23124.78,Mobile Payment,42.0
+Toys,Giza,3681.61,1.0,3681.61,Mobile Payment,67.0
+Groceries,Giza,3947.17,3.0,11841.51,Bank Transfer,65.0
+Furniture,Mansoura,3776.56,10.0,37765.6,Cash,32.0
+Groceries,Giza,2748.498307692308,9.0,29165.85,Cash,26.0
+Clothing,Alexandria,2524.6,10.0,25246.0,Mobile Payment,42.52554744525548
+Clothing,Alexandria,4285.82,1.0,4285.82,Mobile Payment,42.52554744525548
+Toys,Mansoura,2099.5,6.0,12597.0,Mobile Payment,53.0
+Groceries,Cairo,2934.5,10.0,15985.668489208632,Bank Transfer,26.0
+Furniture,Giza,1774.12,6.0,10644.72,Mobile Payment,56.0
+Groceries,Asyut,130.7,5.7835820895522385,392.1,Mobile Payment,18.0
+Groceries,Giza,3563.71,5.0,17818.55,Bank Transfer,23.0
+Groceries,Alexandria,3956.48,10.0,39564.8,Mobile Payment,42.52554744525548
+Furniture,Giza,2748.498307692308,6.0,15985.668489208632,Credit Card,42.52554744525548
+Toys,Mansoura,2782.65,8.0,22261.2,Bank Transfer,40.0
+Groceries,Giza,835.13,1.0,835.13,Bank Transfer,34.0
+Electronics,Asyut,2748.498307692308,5.7835820895522385,5882.9,Bank Transfer,38.0
+Toys,Giza,2163.92,6.0,12983.52,Mobile Payment,51.0
+Clothing,Cairo,2748.498307692308,9.0,17227.8,Cash,34.0
+Clothing,Cairo,635.13,5.7835820895522385,5081.04,Cash,65.0
+Groceries,Cairo,2642.9,7.0,18500.3,Credit Card,42.52554744525548
+Toys,Giza,2765.3,3.0,15985.668489208632,Credit Card,55.0
+Clothing,Alexandria,4189.86,6.0,25139.16,Credit Card,67.0
+Groceries,Mansoura,2608.9,5.7835820895522385,15985.668489208632,Cash,33.0
+Furniture,Mansoura,4236.54,5.0,15985.668489208632,Mobile Payment,56.0
+Furniture,Mansoura,2748.498307692308,2.0,9309.44,Credit Card,65.0
+Groceries,Giza,2748.498307692308,5.0,14364.35,Bank Transfer,63.0
+Toys,Alexandria,2748.498307692308,7.0,34095.32,Cash,39.0
+Furniture,Giza,2748.498307692308,8.0,22381.44,Bank Transfer,42.52554744525548
+Electronics,Mansoura,2748.498307692308,5.7835820895522385,28308.15,Bank Transfer,42.52554744525548
+Electronics,Cairo,1127.18,3.0,3381.54,Bank Transfer,66.0
+Groceries,Giza,4453.65,4.0,17814.6,Credit Card,34.0
+Groceries,Alexandria,4078.4,5.7835820895522385,15985.668489208632,Bank Transfer,46.0
+Groceries,Asyut,4299.58,1.0,4299.58,Bank Transfer,24.0
+Groceries,Asyut,2748.498307692308,4.0,1942.8,Bank Transfer,53.0
+Electronics,Cairo,1274.59,9.0,11471.31,Mobile Payment,39.0
+Groceries,Mansoura,1349.66,7.0,9447.62,Bank Transfer,67.0
+Furniture,Mansoura,715.63,5.7835820895522385,6440.67,Mobile Payment,68.0
+Electronics,Cairo,2878.27,9.0,25904.43,Cash,48.0
+Groceries,Giza,3046.66,7.0,21326.62,Mobile Payment,46.0
+Electronics,Giza,2639.84,2.0,5279.68,Cash,26.0
+Furniture,Alexandria,2466.97,10.0,24669.7,Cash,56.0
+Electronics,Cairo,3710.93,4.0,14843.72,Bank Transfer,70.0
+Groceries,Giza,3675.39,5.0,15985.668489208632,Credit Card,22.0
+Toys,Mansoura,2004.02,3.0,6012.06,Bank Transfer,42.52554744525548
+Groceries,Mansoura,4049.5,10.0,40495.0,Credit Card,63.0
+Furniture,Asyut,86.78,8.0,694.24,Bank Transfer,63.0
+Groceries,Cairo,2748.498307692308,8.0,12482.64,Cash,39.0
+Clothing,Mansoura,1603.67,4.0,6414.68,Mobile Payment,42.52554744525548
+Groceries,Asyut,2772.47,1.0,15985.668489208632,Cash,61.0
+Clothing,Cairo,2748.498307692308,5.0,16105.3,Mobile Payment,68.0
+Electronics,Cairo,1973.79,5.7835820895522385,9868.95,Bank Transfer,24.0
+Toys,Asyut,2989.34,5.7835820895522385,15985.668489208632,Cash,42.52554744525548
+Furniture,Giza,4805.0,5.7835820895522385,48050.0,Bank Transfer,44.0
+Electronics,Cairo,2926.33,8.0,23410.64,Credit Card,41.0
+Electronics,Alexandria,4804.15,1.0,4804.15,Mobile Payment,18.0
+Toys,Giza,2748.498307692308,10.0,5644.5,Bank Transfer,23.0
+Furniture,Asyut,2748.498307692308,10.0,42199.1,Bank Transfer,29.0
+Toys,Giza,2748.498307692308,10.0,46391.7,Bank Transfer,51.0
+Groceries,Giza,4395.01,4.0,17580.04,Bank Transfer,65.0
+Clothing,Mansoura,738.39,9.0,6645.51,Bank Transfer,41.0
+Electronics,Giza,4737.44,8.0,37899.52,Mobile Payment,18.0
+Furniture,Giza,3582.7,9.0,32244.3,Bank Transfer,18.0
+Groceries,Asyut,2748.498307692308,10.0,23318.3,Bank Transfer,33.0
+Clothing,Mansoura,2482.66,3.0,7447.98,Credit Card,42.52554744525548
+Groceries,Alexandria,2765.39,4.0,11061.56,Mobile Payment,42.52554744525548
+Groceries,Giza,2058.15,2.0,4116.3,Mobile Payment,53.0
+Furniture,Alexandria,2536.51,10.0,15985.668489208632,Bank Transfer,63.0
+Groceries,Giza,4278.91,5.0,21394.55,Bank Transfer,29.0
+Furniture,Giza,2748.498307692308,3.0,15985.668489208632,Bank Transfer,42.52554744525548
+Clothing,Alexandria,3220.87,6.0,19325.22,Bank Transfer,58.0
+Clothing,Giza,2818.52,8.0,22548.16,Bank Transfer,59.0
+Electronics,Giza,447.1,3.0,1341.3,Bank Transfer,35.0
+Electronics,Giza,2748.498307692308,4.0,8116.0,Cash,64.0
+Groceries,Alexandria,4938.88,10.0,15985.668489208632,Bank Transfer,57.0
+Toys,Alexandria,4080.24,5.0,20401.2,Credit Card,53.0
+Groceries,Giza,759.31,2.0,1518.62,Credit Card,31.0
+Groceries,Giza,2333.67,5.7835820895522385,15985.668489208632,Bank Transfer,57.0
+Furniture,Asyut,4046.9,10.0,40469.0,Bank Transfer,33.0
+Furniture,Giza,2748.498307692308,7.0,15985.668489208632,Bank Transfer,45.0
+Groceries,Asyut,3953.38,6.0,23720.28,Bank Transfer,64.0
+Groceries,Alexandria,3605.95,2.0,7211.9,Cash,42.52554744525548
+Electronics,Giza,2748.498307692308,9.0,15985.668489208632,Cash,42.52554744525548
+Toys,Giza,2344.72,8.0,18757.76,Cash,42.52554744525548
+Toys,Cairo,551.06,4.0,2204.24,Bank Transfer,30.0
+Clothing,Giza,2748.498307692308,8.0,17041.6,Mobile Payment,47.0
+Groceries,Giza,2748.498307692308,3.0,1133.25,Bank Transfer,19.0
+Groceries,Cairo,1766.56,6.0,10599.36,Mobile Payment,58.0
+Electronics,Giza,3935.47,4.0,15741.88,Cash,46.0
+Toys,Cairo,3187.74,5.7835820895522385,22314.18,Bank Transfer,37.0
+Toys,Giza,1166.63,6.0,6999.78,Bank Transfer,60.0
+Clothing,Asyut,1199.3,5.7835820895522385,15985.668489208632,Mobile Payment,23.0
+Electronics,Giza,2748.498307692308,7.0,19685.4,Mobile Payment,42.52554744525548
+Groceries,Giza,2846.32,5.7835820895522385,17077.92,Credit Card,27.0
+Groceries,Giza,2548.23,3.0,15985.668489208632,Bank Transfer,42.52554744525548
+Groceries,Giza,2748.498307692308,5.7835820895522385,23930.19,Credit Card,42.52554744525548
+Groceries,Giza,2377.23,4.0,9508.92,Mobile Payment,70.0
+Clothing,Giza,2748.498307692308,3.0,9436.08,Bank Transfer,42.52554744525548
+Groceries,Alexandria,191.43,6.0,1148.58,Mobile Payment,48.0
+Toys,Giza,2846.47,6.0,17078.82,Cash,31.0
+Groceries,Alexandria,2748.498307692308,5.7835820895522385,28965.04,Bank Transfer,42.52554744525548
+Groceries,Giza,2748.498307692308,10.0,8791.7,Mobile Payment,42.52554744525548
+Groceries,Mansoura,2679.72,7.0,18758.04,Bank Transfer,42.52554744525548
+Electronics,Cairo,1948.82,5.7835820895522385,3897.64,Bank Transfer,43.0
+Clothing,Mansoura,4883.71,9.0,43953.39,Bank Transfer,38.0
+Furniture,Giza,4106.12,9.0,36955.08,Mobile Payment,47.0
+Clothing,Asyut,4692.32,9.0,42230.88,Bank Transfer,43.0
+Furniture,Asyut,3099.17,5.7835820895522385,3099.17,Credit Card,30.0
+Toys,Alexandria,4897.9,5.0,24489.5,Mobile Payment,38.0
+Electronics,Asyut,4365.78,6.0,26194.68,Bank Transfer,20.0
+Groceries,Asyut,4000.59,5.0,20002.95,Cash,39.0
+Toys,Giza,4068.87,5.0,20344.35,Bank Transfer,70.0
+Furniture,Mansoura,4701.29,1.0,4701.29,Mobile Payment,43.0
+Furniture,Mansoura,2652.82,10.0,26528.2,Bank Transfer,21.0
+Furniture,Asyut,4484.85,8.0,35878.8,Bank Transfer,65.0
+Furniture,Alexandria,4899.97,9.0,44099.73,Cash,38.0

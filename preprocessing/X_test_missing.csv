@@ -1,0 +1,34 @@
+ProductCategory,StoreLocation,UnitPrice,QuantitySold,TotalSale,PaymentMethod,CustomerAge
+Furniture,Asyut,2748.498307692308,8.0,2971.04,Credit Card,25.0
+Clothing,Asyut,1327.36,6.0,7964.16,Bank Transfer,29.0
+Groceries,Cairo,125.52,10.0,1255.2,Cash,31.0
+Furniture,Mansoura,1551.57,5.0,15985.668489208632,Credit Card,67.0
+Electronics,Giza,2113.94,3.0,6341.82,Credit Card,61.0
+Groceries,Asyut,3161.75,4.0,12647.0,Cash,29.0
+Electronics,Alexandria,3652.47,5.7835820895522385,18262.35,Cash,31.0
+Toys,Asyut,815.84,1.0,815.84,Bank Transfer,42.52554744525548
+Groceries,Cairo,365.77,8.0,2926.16,Cash,19.0
+Groceries,Mansoura,4473.23,5.7835820895522385,44732.3,Bank Transfer,57.0
+Clothing,Asyut,438.8,8.0,3510.4,Bank Transfer,23.0
+Groceries,Giza,2748.498307692308,8.0,1481.04,Cash,26.0
+Electronics,Mansoura,2297.47,8.0,18379.76,Mobile Payment,44.0
+Electronics,Alexandria,1038.44,6.0,6230.64,Credit Card,66.0
+Toys,Giza,2748.498307692308,7.0,15985.668489208632,Bank Transfer,70.0
+Groceries,Giza,2922.33,2.0,5844.66,Credit Card,64.0
+Clothing,Giza,2748.498307692308,5.0,11434.7,Credit Card,51.0
+Furniture,Giza,3439.45,5.7835820895522385,34394.5,Cash,42.52554744525548
+Toys,Giza,2668.65,5.7835820895522385,15985.668489208632,Mobile Payment,22.0
+Groceries,Cairo,3308.53,9.0,29776.77,Bank Transfer,30.0
+Groceries,Giza,4810.18,8.0,38481.44,Bank Transfer,18.0
+Electronics,Alexandria,2748.498307692308,4.0,2319.68,Cash,20.0
+Clothing,Cairo,2126.93,5.0,10634.65,Bank Transfer,36.0
+Groceries,Giza,4987.41,5.7835820895522385,14962.23,Credit Card,18.0
+Groceries,Mansoura,4585.01,1.0,4585.01,Credit Card,48.0
+Clothing,Cairo,2748.498307692308,2.0,2071.88,Credit Card,48.0
+Toys,Alexandria,2178.82,3.0,6536.46,Credit Card,42.52554744525548
+Furniture,Alexandria,2166.4,5.7835820895522385,15985.668489208632,Bank Transfer,42.52554744525548
+Toys,Cairo,114.78,5.7835820895522385,15985.668489208632,Bank Transfer,23.0
+Toys,Giza,2725.86,1.0,2725.86,Credit Card,19.0
+Clothing,Alexandria,179.68,5.7835820895522385,15985.668489208632,Mobile Payment,56.0
+Groceries,Giza,4343.47,5.7835820895522385,43434.7,Credit Card,54.0
+Clothing,Mansoura,2748.498307692308,5.7835820895522385,14794.84,Credit Card,34.0
