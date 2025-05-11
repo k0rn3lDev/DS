@@ -59,4 +59,4 @@ This report documents the analysis of synthetic retail sales data covering:
 ---
 
 ## Appendix: Code Files  
-**Repository**: [github.com/k0rn3lDev/DS_Project](https://github.com/k0rn3lDev/DS_Project)  
+**Repository**: [https://github.com/k0rn3lDev/DS.git](https://github.com/k0rn3lDev/DS.git)  
